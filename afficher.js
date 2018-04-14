@@ -1,1 +1,2 @@
-var message = "salut";;
+var message = "salut";
+
