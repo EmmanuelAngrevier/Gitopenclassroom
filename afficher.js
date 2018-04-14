@@ -1,1 +1,3 @@
-ar1 = alert("Bonjour cher correcteur");
+var message = "salut";
+alert(message);  
+fghjkl
